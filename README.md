@@ -8,10 +8,8 @@ Funktionalitäten:
 				-   von wann bis wann
 
 - Dienstleistung anwählen als multioptionale Funktion:
-	-	Haarschnitt (komplett)
-	-	Haarschnitt (nur Seiten)
-	-	Bart (komplett)
-	-	Bart (nur Konturen)
+	-	Haarschnitt
+	-	Bart
 	-	Augenbrauen
 		-	Bestätigungsknopf
 
