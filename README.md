@@ -22,3 +22,10 @@ Funktionalitäten:
 (Optional)- Erinnerung:
 				-	1 Tag vor dem Termin Erinnerungssms oder Whatsapp senden
 
+
+Fragen:
+-	Verfügbarkeit der Coiffeure -> Immer gleiche Verfügbarkeit 1
+-	Zeit pro Termin -> Slots 10min
+-	Nach Auswahl der DL werden alle Verfügbaren Termine pro Coiffeur angezeigt -> nur 1 Coiffeur immer gleiche Zeiten verfügbar.
+- SMS weglassen
+- Alle gebuchten Termine anzeigen für Coiffeur.
